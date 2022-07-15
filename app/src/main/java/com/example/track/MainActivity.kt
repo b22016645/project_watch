@@ -23,7 +23,7 @@ import model.DoRetrofitData
 import model.NaviData
 import utils.Constant.API.LOG
 import java.util.*
-
+//수정사항입니다.한별
 class MainActivity : Activity(), LocationListener {
 
     private lateinit var binding: ActivityMainBinding
