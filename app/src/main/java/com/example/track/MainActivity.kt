@@ -23,9 +23,9 @@ import model.DoRetrofitData
 import model.NaviData
 import utils.Constant.API.LOG
 import java.util.*
-//수정사항입니다.한별
-class MainActivity : Activity(), LocationListener {
 
+class MainActivity : Activity(), LocationListener {
+        //수정테스트123 한별
     private lateinit var binding: ActivityMainBinding
     lateinit var x: TextView
     lateinit var y: TextView
