@@ -25,8 +25,7 @@ import utils.Constant.API.LOG
 import java.util.*
 
 class MainActivity : Activity(), LocationListener {
-        //수정테스트123 한별
-            //ㅇㅀㅇㅀㄹㅇ
+
     private lateinit var binding: ActivityMainBinding
     lateinit var x: TextView
     lateinit var y: TextView
